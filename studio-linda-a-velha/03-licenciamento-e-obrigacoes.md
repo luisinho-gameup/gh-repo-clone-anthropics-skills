@@ -14,9 +14,13 @@ legislação conexa. Confirmar sempre a versão em vigor no IPDJ / ePortugal.
 - [ ] Acessibilidades (DL 163/2006) conforme aplicável
 
 ### Pessoas
-- [ ] **Diretor Técnico (DT)** com título profissional válido (IPDJ) — obrigatório; afixar nome e título
+- [ ] **Diretor Técnico (DT)** com título profissional válido (IPDJ) — obrigatório; afixar nome e título. Na proposta assumimos a direção técnica → confirmar que o título do Eduardo é de **Diretor Técnico** (não só TEF)
 - [ ] Todos os treinadores/PTs (incluindo os que alugam) com **título profissional de Técnico de Exercício Físico (TEF)** ou Diretor Técnico válido — **pedir cópia a cada PT**
 - [ ] Afixar à entrada: DT, horário, regras, nº de utentes máximo (conforme lei)
+
+### Gabinete de saúde (fisioterapia/consulta)
+- [ ] Confirmar requisitos **ERS** para o gabinete (registo do prestador; eventual licenciamento do espaço)
+- [ ] Cada profissional de saúde com cédula profissional (ex.: Ordem dos Fisioterapeutas)
 
 ### Seguros
 - [ ] **Seguro de responsabilidade civil** da exploração

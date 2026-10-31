@@ -10,7 +10,8 @@ Arrendamento para fins não habitacionais → regras do Código Civil (art. 1108
 | **Fim / atividade** | "Estúdio de treino, atividade física e desportiva, incluindo **cedência de espaço a profissionais do exercício**" | Usar o espaço para fim diferente do contratado é causa de resolução |
 | **Sublocação / cedência** | Autorização **expressa e escrita** do senhorio para ceder o espaço (total ou parcial, por horas) a terceiros PTs | **Sem isto, alugar a outros PTs pode ser ilícito** (arts. 1038.º f) e 1088.º CC) |
 | **Duração** | Ex.: 5 anos + renovações; a Associação pode denunciar com pré-aviso (ex.: 120 dias) após 1.º ano | Flexibilidade se o negócio não arrancar |
-| **Período de carência** | 2–3 meses sem renda para obras | Montagem antes de faturar |
+| **Obras estruturais** | A cargo da proprietária (combinado na proposta): lista em anexo + prazo | Hoje só está "em conversa" |
+| **Período de carência** | Sem renda até as obras estruturais estarem concluídas + 1–2 meses para a montagem interior | Montagem antes de faturar |
 | **Obras** | Autorização prévia para obras listadas em anexo (piso, espelhos, balneários, insonorização); dizer se ficam/são removidas | Evitar discussões à saída |
 | **Atualização da renda** | Coeficiente anual do INE (ou fixo) | Previsibilidade |
 | **Caução** | Máx. 1–2 rendas | Liquidez |
@@ -23,7 +24,7 @@ Arrendamento para fins não habitacionais → regras do Código Civil (art. 1108
 Proposta de redação (validar com advogado):
 
 > "Os fiadores garantem o cumprimento das obrigações da Arrendatária **até ao limite máximo de [12]
-> rendas** em vigor, sendo a fiança válida **apenas durante o período inicial do contrato** [e/ou até
+> rendas** (= €18.000 com a renda de €1.500) em vigor, sendo a fiança válida **apenas durante o período inicial do contrato** [e/ou até
 > [data]], cessando automaticamente nas renovações, salvo nova declaração escrita dos fiadores."
 
 Pontos:

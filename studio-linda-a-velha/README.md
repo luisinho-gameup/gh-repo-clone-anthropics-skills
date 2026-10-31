@@ -10,9 +10,13 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 | Fiadores | Tu + Eduardo (sócio, dono da marca Game Up) |
 | Utilização do espaço | Treinos Game Up Training + arrendamento/cedência a outros Personal Trainers (PTs) |
 | Local | Linda-a-Velha, concelho de Oeiras |
+| Renda | €1.500/mês |
+| Espaço | 5 postos PT · 2 recuperação · 1 gabinete · máx. 8 pessoas/h |
+| Investimento previsto | €60.000 (incl. €15.000 de reserva) |
 
 ## Ficheiros
 
+0. [`00-proposta-aceite.md`](00-proposta-aceite.md) — resumo da proposta aceite, números verificados e pontos a corrigir
 1. [`01-decisoes-urgentes.md`](01-decisoes-urgentes.md) — o que tem de ficar decidido **antes de assinar** o contrato
 2. [`02-contrato-arrendamento.md`](02-contrato-arrendamento.md) — cláusulas a negociar com o senhorio, fiança e sublocação
 3. [`03-licenciamento-e-obrigacoes.md`](03-licenciamento-e-obrigacoes.md) — licenças, seguros, Diretor Técnico, obrigações legais
@@ -22,8 +26,8 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 
 ## Próximo passo
 
-Responder às perguntas em `01-decisoes-urgentes.md` e preencher os valores em `05-financeiro.md`
-(renda, área, caução). Com isso fecha-se a proposta de contrato e o orçamento real.
+Ler `00-proposta-aceite.md` (secção 0.3), responder às perguntas em `01-decisoes-urgentes.md`
+e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.md`.
 
 > ⚠️ Estes documentos são um guia de organização, não aconselhamento jurídico/fiscal.
 > Antes de assinar, validar o contrato com advogado e a estrutura fiscal com contabilista certificado.

@@ -1,6 +1,19 @@
 # 4. Modelo de aluguer a outros Personal Trainers
 
-## 4.1 Modelos de preço (escolher 1 ou combinar)
+## 4.0 Preços já definidos na proposta
+
+| Espaço | Preço (c/ IVA) | s/ IVA |
+|---|---|---|
+| Posto PT | €9/hora | €7,32 |
+| Gabinete independente | €10/hora | €8,13 |
+| Posto de recuperação | €35/sessão de 90 min | €28,46 |
+
+A **Game Up paga as suas horas** como qualquer outro profissional (prometido na proposta) → faturar-lhe as horas
+todos os meses, mesmo sendo "da casa". Isto é o que prova à proprietária que o modelo funciona.
+
+Nota: €9/h é um preço de entrada competitivo. Depois de encher, ponderar subir nas horas de ponta.
+
+## 4.1 Modelos de preço complementares
 
 | Modelo | Como funciona | Bom para |
 |---|---|---|
@@ -16,7 +29,8 @@
 
 - Blocos fixos **reservados Game Up Training** (definir horários: ex. 7h–9h, 18h–20h)
 - Restantes horas: reserva pelos PTs via app/agenda partilhada (ex.: Google Calendar, Fresha, Trainingym, Glofox)
-- Limite de PTs/alunos em simultâneo (espaço + lotação legal)
+- **Lotação: máx. 5 clientes PT + 2 recuperação + 1 gabinete = 8 pessoas/hora** (compromisso com a proprietária) — o sistema de reservas deve bloquear acima disto
+- **Sem aulas de grupo** (compromisso da proposta)
 - Horas de ponta vs. vale com preços diferentes
 
 ## 4.3 Contrato com cada PT — pontos obrigatórios
@@ -35,7 +49,13 @@ Usar **contrato de cedência de utilização de espaço** (não de trabalho — 
 - [ ] Duração, pré-aviso de saída (ex.: 30 dias), causas de rescisão imediata
 - [ ] Acesso (chaves/código), RGPD (câmaras, dados)
 
-## 4.4 Regulamento interno (afixar + anexar ao contrato)
+## 4.4 Profissionais do gabinete e da recuperação
+
+- Fisioterapeuta: cédula profissional + **registo ERS** (próprio ou da entidade com que trabalha)
+- Recuperação (massagem, pressoterapia, etc.): qualificação adequada e seguro próprio
+- Contrato igual ao dos PTs, adaptado (sessão de 90 min, preço por sessão)
+
+## 4.5 Regulamento interno (afixar + anexar ao contrato)
 
 Higiene, toalha obrigatória, calçado, horário, ruído, música, drop de pesos, check-in/check-out,
 o que fazer em caso de acidente (número de emergência, DAE se existir, registo de ocorrências).
