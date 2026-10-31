@@ -24,6 +24,7 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 5. [`05-financeiro.md`](05-financeiro.md) — orçamento de arranque, custos fixos e ponto de equilíbrio
 6. [`06-plano-de-abertura.md`](06-plano-de-abertura.md) — checklist semana a semana até à inauguração
 7. [`07-business-plan-revisao.md`](07-business-plan-revisao.md) — revisão do Pitch v3 e checklist da reunião de sócios
+9. [`09-quem-somos.md`](09-quem-somos.md) — **resumo de quem somos (contexto de referência)**
 8. [`08-marca-e-comunicacao.md`](08-marca-e-comunicacao.md) — análise do "Quem somos", posicionamento e checklist do site e Instagram
 
 ## Próximo passo
