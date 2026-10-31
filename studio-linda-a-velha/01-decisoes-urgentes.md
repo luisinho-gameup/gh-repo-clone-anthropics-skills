@@ -2,6 +2,15 @@
 
 ## 1.1 ⚠️ A associação é a entidade certa?
 
+> **Estado (31 out 2026):** por agora só existe a associação → arranca-se com a **Opção A**.
+> A "gestão do espaço" (€1.500/mês) será para os dois. Pontos a tratar com o contabilista:
+> - **Como a associação vos paga** os €1.500: prestação de serviços (recibos verdes) ou contrato de trabalho,
+>   com valor e funções definidos por escrito (deliberação da direção). Isto é remuneração por trabalho — legítimo.
+> - **O excedente não pode ser distribuído.** Nos cenários da proposta (30–50%) sobram €4–10 mil/mês que ficam na
+>   associação. Decidir o destino (reinvestimento, reserva, amortizar o investimento) e, se o projeto crescer,
+>   reavaliar a criação de uma sociedade (Opção B/C).
+> - Se tu/Eduardo financiarem parte dos €60 mil: **empréstimo à associação**, com contrato e plano de reembolso.
+
 Uma **associação** é uma entidade sem fins lucrativos: **não pode distribuir lucros** pelos associados.
 Se o objetivo é tu e o Eduardo terem rendimento do estúdio (aulas + aluguer a PTs), isto é um problema.
 

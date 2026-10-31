@@ -34,10 +34,9 @@ Preços: posto PT **€9/h**, gabinete **€10/h**, recuperação **€35/sessã
 
 ## 0.3 ⚠️ Pontos a corrigir ou clarificar
 
-1. **"Empresa" vs. "Associação".** A proposta apresenta a *Game Up Training* como **empresa** (faturação €206 mil,
-   "resultado antes de IRC"), mas a arrendatária será a **Associação Game Up**. São a mesma entidade jurídica?
-   - O histórico de faturação que convenceu a proprietária deve ser **da entidade que assina**. Se não for, explicar
-     isso à proprietária antes de assinar — evita problemas mais tarde.
+1. **"Empresa" vs. "Associação"** → ✅ *Esclarecido: só existe a associação.* A proposta usa a palavra "empresa";
+   na próxima conversa com a proprietária, confirmar que ela sabe que a arrendatária é a **Associação Game Up**
+   (e que o histórico de faturação é da associação). Corrigir "empresa" e "IRC" em versões futuras dos documentos.
 2. **O teu nome não aparece na proposta.** Só o Eduardo é apresentado como responsável. Como vais ser fiador,
    o teu papel (gestão? sócio? direção da associação?) tem de ficar definido no acordo entre sócios (`01`).
 3. **Horário:** 15 h × 5 dias + 10 h = **85 h**, não 80 h. Usar 80 h é conservador (bom), mas convém corrigir o texto

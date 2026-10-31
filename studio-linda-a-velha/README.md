@@ -31,3 +31,12 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 
 > ⚠️ Estes documentos são um guia de organização, não aconselhamento jurídico/fiscal.
 > Antes de assinar, validar o contrato com advogado e a estrutura fiscal com contabilista certificado.
+
+## Registo de decisões
+
+| Data | Tema | Decisão / estado |
+|---|---|---|
+| 2026-10-31 | Entidade | **Só existe a Associação Game Up** (não há empresa). Arrendatária = associação |
+| 2026-10-31 | Financiamento dos €60.000 | A definir |
+| 2026-10-31 | "Gestão do espaço" (€1.500/mês) | Para ambos (tu + Eduardo). Business plan adaptado a enviar |
+| 2026-10-31 | Minuta do contrato de arrendamento | Esperada na semana de 2–6 nov 2026 → rever com `02-contrato-arrendamento.md` |
