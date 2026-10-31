@@ -43,20 +43,24 @@ Instagram analisado a partir de capturas de ecrã (31 out 2026) — ver 8.7. Sit
 
 O futebol é a **origem e a credibilidade** do estúdio, não um limite. Nome e logótipo do estúdio: derivar da marca Game Up, mas sem "futebol".
 
-### ⚠️ Treino tipo HYROX: o que verificar
+### Público: todos, sempre acompanhados por um profissional
 
-1. **Marca registada.** "HYROX" é uma marca. Usar "HYROX" no nome ou na comunicação do estúdio (ex.: "HYROX
-   Training Club") exige **afiliação oficial**. Sem ela, usar "treino híbrido" / "preparação para provas de fitness
-   híbrido". Cada coach pode dizer que prepara atletas para HYROX.
-2. **Promessas à proprietária.** A proposta prometeu "uso calmo", "sem aulas de grupo" e máx. 8 pessoas/h.
-   O treino híbrido costuma ser **ruidoso** (sleds, wall balls, drops) e muitas vezes em **grupo**:
-   - Regras: sem drops (só tapete/plataforma), wall balls contra parede com isolamento, música com limite de volume
-   - Treinos de grupo: só se o contrato o permitir. Negociar já "pequenos grupos até X pessoas"
-     (ver `00` e `02`), sem ultrapassar a lotação de 8 pessoas por hora
-3. **Pátio exterior (~230 m² com pátio):** pode servir para sleds e corridas. Confirmar no contrato que o pátio
-   está **incluído e pode ser usado** (horários, ruído, condomínio).
-4. **Equipamento:** sled + relva sintética (turf), SkiErg, remo, wall balls, sandbags, kettlebells pesadas. Ver se
-   cabe nos €25.000 ou se é uma fase 2 (ou se os coaches trazem o seu próprio material).
+O HYROX foi só um exemplo. **Não haverá equipamento nem treino de HYROX no estúdio.** Podem vir PTs que acompanham
+atletas dessa modalidade, como acompanham qualquer outro cliente.
+
+Clientes possíveis: idosos, jovens, mulheres, grávidas, atletas, reabilitação… **sempre acompanhados** por um
+profissional da Game Up ou por um PT parceiro. **Não há uso livre** (o estúdio não funciona como open gym).
+
+O que isto implica:
+- **Ambiente calmo e acolhedor**, de acordo com a proposta ("uso calmo", 1 cliente por posto, máx. 8/h) ✅
+- **Equipamento versátil**: serve para atletas e para pessoas de idade ou em reabilitação (cargas leves, máquinas guiadas,
+  apoios, bancos ajustáveis), além do material de performance da Game Up
+- **Acessibilidade**: entrada sem degraus (ou rampa), casa de banho acessível, piso antiderrapante
+- **Segurança clínica**: PAR-Q/anamnese obrigatória; **declaração médica** para grávidas, cardíacos e outros casos de risco;
+  o PT responsável confirma que tem formação para essa população (ex.: pré/pós-parto, sénior)
+- **Plano de emergência**: kit de primeiros socorros, protocolo de emergência afixado; ponderar um **DAE** (desfibrilhador) e a
+  respetiva formação
+- **Comunicação**: "Treino personalizado para todos, com profissionais certificados", não "estúdio de futebol"
 
 ### Opções que estavam em cima da mesa (histórico)
 

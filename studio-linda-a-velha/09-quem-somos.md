@@ -19,6 +19,6 @@ Resumo de referência (fontes: proposta, Pitch v3, site e Instagram, out. 2026).
 | Perfil | Football Performance Coach, PT | Coach 1v1, analista individual, UEFA C |
 
 ## O estúdio (Linda-a-Velha, Oeiras)
-- Estúdio de performance **por marcação**, aberto a vários públicos (fitness, treino híbrido/HYROX, fisio, recovery)
+- Estúdio de treino personalizado **por marcação**, aberto a **todos os públicos** (idosos, jovens, mulheres, grávidas, atletas de qualquer modalidade), **sempre acompanhados** por um profissional Game Up ou PT parceiro. Sem equipamento específico de HYROX, sem uso livre
 - Game Up = dona e utilizadora âncora (paga as suas horas); restantes horas alugadas a profissionais externos
 - 5 postos PT (€9/h) · 1 gabinete (€10/h) · 2 postos de recovery (€35/90 min) · máx. 8 pessoas/h · ~230 m² com pátio · renda €1.500

@@ -49,6 +49,12 @@ Usar **contrato de cedência de utilização de espaço** (não de trabalho — 
 - [ ] Duração, pré-aviso de saída (ex.: 30 dias), causas de rescisão imediata
 - [ ] Acesso (chaves/código), RGPD (câmaras, dados)
 
+## 4.3b Clientes dos PTs: regras
+
+- **Todos os clientes vêm acompanhados** por um profissional (Game Up ou PT parceiro). Não há uso livre.
+- Cada cliente preenche o **PAR-Q/anamnese** do estúdio; para grávidas e casos de risco é preciso declaração médica.
+- O PT é responsável por ter formação adequada à população que treina (sénior, pré/pós-parto, reabilitação, atletas).
+
 ## 4.4 Profissionais do gabinete e da recuperação
 
 - Fisioterapeuta: cédula profissional + **registo ERS** (próprio ou da entidade com que trabalha)

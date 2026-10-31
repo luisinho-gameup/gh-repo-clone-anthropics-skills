@@ -15,8 +15,7 @@ Arrendamento para fins não habitacionais → regras do Código Civil (art. 1108
 | **Obras** | Autorização prévia para obras listadas em anexo (piso, espelhos, balneários, insonorização); dizer se ficam/são removidas | Evitar discussões à saída |
 | **Atualização da renda** | Coeficiente anual do INE (ou fixo) | Previsibilidade |
 | **Caução** | Máx. 1–2 rendas | Liquidez |
-| **Pátio exterior** | Incluído no arrendamento, com uso para treino permitido | Sleds, corrida, treino híbrido |
-| **Pequenos grupos** | Permitir treinos de pequenos grupos (até X pessoas), dentro da lotação | A proposta prometeu "sem aulas de grupo" |
+| **Pátio exterior** | Incluído no arrendamento, com uso para treino permitido | Treino ao ar livre, aquecimentos, testes de velocidade |
 | **Ruído/horário** | Confirmar que não há restrições de condomínio ao horário pretendido (ex.: 6h–22h) | Treinos cedo/tarde |
 | **Seguro** | Quem faz seguro multirriscos do edifício vs. do recheio | Evitar duplicação |
 | **Licença de utilização** | Senhorio declara que a fração tem licença compatível com a atividade | Sem isto não consegues licenciar |
