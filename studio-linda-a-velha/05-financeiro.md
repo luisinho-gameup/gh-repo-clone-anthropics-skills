@@ -2,7 +2,14 @@
 
 Valores da proposta aceite (out. 2026) + ajustes recomendados. Os `[ ]` ainda são para preencher com orçamentos reais.
 
-## 5.1 Investimento inicial (proposta: €60.000)
+## 5.1 Investimento inicial — **revisto para €40.000** (31 out 2026)
+
+> Decisão: o investimento baixa de €60.000 para **€40.000** por agora. Distribuição proposta (a confirmar):
+> equipamento **€18.000** · adaptação interior **€10.000** · reserva **€12.000** (8 meses de renda).
+> ⚠️ Com uma reserva menor, os meses sem receita antes da abertura pesam mais → **a carência de renda é ainda mais importante**.
+> A proposta à proprietária falava de €60.000; se ela perguntar, explicar que o investimento é faseado.
+
+Tabela original da proposta (€60.000), para referência:
 
 | Item | Proposta | Real | Quem financia |
 |---|---|---|---|

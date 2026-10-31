@@ -12,7 +12,7 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 | Local | Linda-a-Velha, concelho de Oeiras |
 | Renda | €1.500/mês |
 | Espaço | 5 postos PT · 2 recuperação · 1 gabinete · máx. 8 pessoas/h |
-| Investimento previsto | €60.000 (incl. €15.000 de reserva) |
+| Investimento previsto | **€40.000** (revisto; proposta original €60.000) |
 
 ## Ficheiros
 
@@ -24,6 +24,7 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 5. [`05-financeiro.md`](05-financeiro.md) — orçamento de arranque, custos fixos e ponto de equilíbrio
 6. [`06-plano-de-abertura.md`](06-plano-de-abertura.md) — checklist semana a semana até à inauguração
 7. [`07-business-plan-revisao.md`](07-business-plan-revisao.md) — revisão do Pitch v3 e checklist da reunião de sócios
+10. [`10-acordo-socios-rascunho.md`](10-acordo-socios-rascunho.md) — **rascunho do acordo de sócios Eduardo + Luís**
 9. [`09-quem-somos.md`](09-quem-somos.md) — **resumo de quem somos (contexto de referência)**
 8. [`08-marca-e-comunicacao.md`](08-marca-e-comunicacao.md) — análise do "Quem somos", posicionamento e checklist do site e Instagram
 
@@ -40,7 +41,7 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | Data | Tema | Decisão / estado |
 |---|---|---|
 | 2026-10-31 | Entidade | **Só existe a Associação Game Up** (não há empresa). Arrendatária = associação |
-| 2026-10-31 | Financiamento dos €60.000 | A definir |
+| 2026-10-31 | Investimento | **Reduzido para €40.000** por agora. Repartição entre sócios a definir (ver `10`) |
 | 2026-10-31 | "Gestão do espaço" (€1.500/mês) | Para ambos (segundo o Luís) — ⚠️ o Pitch v3 diz só Eduardo → **clarificar** |
 | 2026-10-31 | Posicionamento | Estúdio **aberto a todos os públicos**, sempre com um profissional (Game Up ou PT parceiro). Sem equipamento de HYROX nem uso livre. Game Up (futebolistas) = dona e utilizadora âncora |
 | 2026-10-31 | Nome jurídico | Rodapé do site: **"Game Up Sport Clube"**, Amadora → confirmar se é a associação arrendatária (nome, NIPC, sede) |
