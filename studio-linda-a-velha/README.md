@@ -7,7 +7,7 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 | Papel | Quem |
 |---|---|
 | Arrendatária (inquilina) | Associação Game Up |
-| Fiadores | Tu + Eduardo (sócio, dono da marca Game Up) |
+| Fiadores | Luís Tomaz (COO) + Eduardo Ribas (fundador/CEO, dono da marca Game Up) |
 | Utilização do espaço | Treinos Game Up Training + arrendamento/cedência a outros Personal Trainers (PTs) |
 | Local | Linda-a-Velha, concelho de Oeiras |
 | Renda | €1.500/mês |
@@ -23,6 +23,7 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 4. [`04-modelo-aluguer-pts.md`](04-modelo-aluguer-pts.md) — como alugar o espaço a outros PTs (preços, regras, contrato)
 5. [`05-financeiro.md`](05-financeiro.md) — orçamento de arranque, custos fixos e ponto de equilíbrio
 6. [`06-plano-de-abertura.md`](06-plano-de-abertura.md) — checklist semana a semana até à inauguração
+7. [`07-business-plan-revisao.md`](07-business-plan-revisao.md) — revisão do Pitch v3 e checklist da reunião de sócios
 
 ## Próximo passo
 
@@ -38,5 +39,6 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 |---|---|---|
 | 2026-10-31 | Entidade | **Só existe a Associação Game Up** (não há empresa). Arrendatária = associação |
 | 2026-10-31 | Financiamento dos €60.000 | A definir |
-| 2026-10-31 | "Gestão do espaço" (€1.500/mês) | Para ambos (tu + Eduardo). Business plan adaptado a enviar |
+| 2026-10-31 | "Gestão do espaço" (€1.500/mês) | Para ambos (segundo o Luís) — ⚠️ o Pitch v3 diz só Eduardo → **clarificar** |
+| 2026-10-31 | Business plan | Pitch v3 recebido: quotas 60/40, lucros 55/45, valuation pré €130k → revisão em `07` |
 | 2026-10-31 | Minuta do contrato de arrendamento | Esperada na semana de 2–6 nov 2026 → rever com `02-contrato-arrendamento.md` |
