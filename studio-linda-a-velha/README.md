@@ -42,5 +42,6 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-10-31 | Financiamento dos €60.000 | A definir |
 | 2026-10-31 | "Gestão do espaço" (€1.500/mês) | Para ambos (segundo o Luís) — ⚠️ o Pitch v3 diz só Eduardo → **clarificar** |
 | 2026-10-31 | Posicionamento | Estúdio **aberto a vários públicos** (fitness, treino híbrido/HYROX, fisio, recovery). Game Up (futebolistas) = dona e utilizadora âncora |
+| 2026-10-31 | Nome jurídico | Rodapé do site: **"Game Up Sport Clube"**, Amadora → confirmar se é a associação arrendatária (nome, NIPC, sede) |
 | 2026-10-31 | Business plan | Pitch v3 recebido: quotas 60/40, lucros 55/45, valuation pré €130k → revisão em `07` |
 | 2026-10-31 | Minuta do contrato de arrendamento | Esperada na semana de 2–6 nov 2026 → rever com `02-contrato-arrendamento.md` |

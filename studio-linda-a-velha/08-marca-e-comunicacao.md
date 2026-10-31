@@ -1,7 +1,7 @@
 # 8. Marca e comunicação — análise do "Quem somos"
 
 Fontes analisadas: *Proposta de ocupação* (p. 2) e *Pitch v3* (p. 2–4).
-Instagram analisado a partir de capturas de ecrã (31 out 2026) — ver 8.7. **Site gameuptraining.com por analisar** (bloqueado neste ambiente).
+Instagram analisado a partir de capturas de ecrã (31 out 2026) — ver 8.7. Site analisado a partir de capturas/PDFs (31 out 2026) — ver 8.8.
 
 ## 8.1 O que a mensagem diz hoje
 
@@ -141,3 +141,48 @@ O @gameup.training é 100% futebol. Para chegar a PTs, coaches de treino híbrid
 - [ ] @gameup.training: atualizar as localizações e acrescentar "desde 2019"
 - [ ] Verificar se o nome da conta do estúdio está livre e reservá-lo **já** (também o domínio e o Google Business Profile)
 - [ ] Atualizar o pitch com os números reais do Instagram
+
+
+## 8.8 Análise do site gameuptraining.com (capturas de 31 out 2026)
+
+Páginas vistas: Início, Sobre, Pro, Academy, Depoimentos/Atletas, Blog. Site feito pela Converge, mobile, preto + verde-lima.
+
+### O que o site diz
+- **Hero:** "Tua performance no mais alto nível". A metodologia potencia "**centenas** de atletas, da formação ao profissional"
+- **Unidades:** Lisboa (Massamá – Real SC; Alta de Lisboa – Alto do Lumiar; Boavista) · Margem Sul (Almada – Beira Mar AC;
+  Moita – UFC Moitense) · Rio de Janeiro (Niterói/Icaraí + domicílio)
+- **Serviços:** Academy (6–18 anos) · Pro (+18 anos, alto nível) · Análise de desempenho
+- **Método:** Game Up System (fundamentos técnicos, valências físicas, ações táticas, inteligência emocional)
+- **Prova:** depoimentos de atletas Pro e de pais/atletas Academy, cartões de resultados com ganhos em %
+- **Parcerias:** Fly Gloves (código GAMEUP −10%), Pimenta Doce (Summer Camp), entrevista com o gestor de performance de um atleta do Newcastle
+- **Blog ativo** (último: 19 jun 2026, Summer Camp 2026), incluindo uma **formação para treinadores** no método Game Up System (fev 2025)
+- **Rodapé:** "**GAME UP SPORT CLUBE** · Rua Elias Garcia n.º 362 D, 2700-336 Amadora"
+- Contactos: WhatsApp PT +351 934 213 010 · BR +55 (51) 99505-2100 · muitos botões "Entrar em contacto"
+
+### ⚠️ Pontos importantes para o projeto do estúdio
+1. **"Game Up Sport Clube" é a associação?** Se for, este é o **nome jurídico que tem de aparecer no contrato de
+   arrendamento** (e não "Associação Game Up"). Confirmar o nome exato, o NIPC e a sede (Amadora) na certidão/estatutos.
+2. **Números que não batem:** o site diz "centenas de atletas"; o Instagram e o pitch dizem "+2.000". Também não
+   mostra os 16 treinadores, os 7 anos nem os 120 atletas/mês. **Escolher um conjunto de números e usá-lo em todo o lado.**
+3. **Localizações:** o site e o Instagram dizem Lisboa, Almada, Moita e Rio. **Braga e Penafiel (do pitch) não aparecem** → corrigir o pitch.
+4. **O Luís não aparece no site.** O "Sobre" fala só do "professor Eduardo Ribas". Não há página de equipa.
+5. **"Empresa"** outra vez no "Sobre" → alinhar com a entidade real (associação/clube).
+6. **Mistura de português do Brasil e de Portugal** ("acadêmica", "suas performances", "nós te ajudamos", "Faça parte dessa
+   equipa"). Para o mercado de Oeiras, uniformizar em PT-PT.
+7. **Áreas pretas vazias** no topo do Início e na página Pro (provavelmente vídeos que não carregaram) → testar no telemóvel com dados móveis.
+8. **WhatsApp do Brasil com indicativo 51** (Rio Grande do Sul) na secção do Rio de Janeiro (indicativo 21) → confirmar que é o número certo.
+9. **Sem marcação online e sem preços** → para os PTs que vão alugar postos, isto vai ser obrigatório.
+
+### Ativos que o estúdio pode aproveitar
+- A **formação para treinadores Game Up System** é uma fonte natural de **PTs para alugar postos** no estúdio
+  (ex.: "treinadores certificados Game Up têm X% de desconto no posto").
+- O **Blog** já tem tráfego e um ritmo de publicação → publicar "Game Up abre estúdio em Linda-a-Velha".
+- Mapa de unidades → acrescentar o pino **Linda-a-Velha (Oeiras)**.
+- Parcerias (Fly Gloves, Pimenta Doce) → modelo para parcerias locais do estúdio (fisio, nutrição, suplementos).
+
+### Páginas a criar quando o estúdio abrir
+- [ ] **/estudio** — Estúdio Linda-a-Velha: morada, horário, espaços (5 postos PT, 2 de recovery, 1 gabinete), fotos, mapa, marcação
+- [ ] **/profissionais** — "Aluga um posto": preços (€9/h, €10/h, €35/sessão), regras, requisitos (título profissional, seguro), formulário
+- [ ] **/equipa** — Eduardo (CEO) + Luís (COO) + treinadores
+- [ ] Menu: acrescentar "Estúdio"; Início: faixa "Novo estúdio em Linda-a-Velha"
+- [ ] Google Business Profile do estúdio, com ligação a /estudio
