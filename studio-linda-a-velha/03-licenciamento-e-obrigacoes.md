@@ -29,6 +29,11 @@ legislação conexa. Confirmar sempre a versão em vigor no IPDJ / ePortugal.
 - [ ] Exigir a cada PT externo o seu próprio seguro de RC profissional (e comprovativo anual)
 - [ ] Se houver trabalhadores: seguro de acidentes de trabalho
 
+### Publicidade exterior (letreiro, vinis, bandeira)
+- [ ] **Autorização do condomínio** para letreiros nas caixas de estore, bandeira e eventual pintura dos estores
+- [ ] **Licença/comunicação de publicidade** na Câmara Municipal de Oeiras (letreiro e bandeira; os vinis no vidro podem ter regras próprias). Confirmar taxas
+- [ ] Design da entrada: canvas "Game Up Studio — Entrada"
+
 ### Consumidor e comércio
 - [ ] **Livro de Reclamações** físico + eletrónico (registo em livroreclamacoes.pt) e afixar aviso
 - [ ] Afixação de preços
