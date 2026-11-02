@@ -59,3 +59,4 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-02 | Investimento | Sem entrada de capital já. **Equipamento financiado** (prestações mensais); restantes despesas por acertos entre sócios, a registar (ver `12`) |
 | 2026-11-02 | Tarefas Luís | Orçamentos e fornecedores: obras de interior, equipamento/maquinaria (ver `12`) |
 | 2026-11-04 (qua) | Visita | Nova visita à sala; pedir chave antecipada à proprietária (ver `11`) |
+| 2026-11-02 | Manual de marca | v1 criado sobre o design system Game Up Training (Anton + Titillium Web, lima #CAD400): https://claude.ai/artifact/HrTBN8WBVpmDzsJrvW35mk |
