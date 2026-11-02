@@ -1,6 +1,10 @@
 # 10. Acordo de Sócios — RASCUNHO v1
 
 > **Rascunho para discussão entre Eduardo e Luís. Não é um documento final.**
+>
+> **Atualização 2 nov 2026:** quotas 60/40 confirmadas (saída do Vinícius); arrendatária = associação; Lda mais tarde;
+> €1.500 de gestão só para o Eduardo (Cláusula 5, Opção A); sem entrada de capital já, com equipamento financiado e
+> acertos registados (Cláusula 3 → ver `12-orcamentos-e-acertos.md`). Por decidir: lucros 55/45? data da Lda.
 > Os campos `[ ]` e as **Opções** são decisões a tomar na reunião. Antes de assinar, mandar rever por
 > advogado (em especial as cláusulas 4, 7, 8 e 12) e a parte fiscal por contabilista certificado.
 
