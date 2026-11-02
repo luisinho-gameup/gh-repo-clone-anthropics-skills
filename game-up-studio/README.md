@@ -60,3 +60,5 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-02 | Tarefas Luís | Orçamentos e fornecedores: obras de interior, equipamento/maquinaria (ver `12`) |
 | 2026-11-04 (qua) | Visita | Nova visita à sala; pedir chave antecipada à proprietária (ver `11`) |
 | 2026-11-02 | Manual de marca | v1 criado sobre o design system Game Up Training (Anton + Titillium Web, lima #CAD400): https://claude.ai/artifact/HrTBN8WBVpmDzsJrvW35mk |
+| 2026-11-02 | Serviços | **Sem "Fisioterapia"** por agora (legislação). Serviços: Treino Personalizado · Arrendamento para Personal Trainers · Recovery. Uso do gabinete a definir |
+| 2026-11-02 | Termos | Não usar "posto". Usar **"espaço"** na comunicação ("Aluga o teu espaço") e **"Área 01–05 / R1–R2"** na sinalética |

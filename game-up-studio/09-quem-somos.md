@@ -21,4 +21,5 @@ Resumo de referência (fontes: proposta, Pitch v3, site e Instagram, out. 2026).
 ## O estúdio (Linda-a-Velha, Oeiras)
 - Estúdio de treino personalizado **por marcação**, aberto a **todos os públicos** (idosos, jovens, mulheres, grávidas, atletas de qualquer modalidade), **sempre acompanhados** por um profissional Game Up ou PT parceiro. Sem equipamento específico de HYROX, sem uso livre
 - Game Up = dona e utilizadora âncora (paga as suas horas); restantes horas alugadas a profissionais externos
-- 5 postos PT (€9/h) · 1 gabinete (€10/h) · 2 postos de recovery (€35/90 min) · máx. 8 pessoas/h · ~230 m² com pátio · renda €1.500
+- Serviços: **Treino Personalizado · Arrendamento para Personal Trainers · Recovery** (sem fisioterapia por agora)
+- 5 áreas de treino (€9/h) · 1 gabinete (€10/h, uso a definir) · 2 áreas de recovery (€35/90 min). Na comunicação: "espaço", nunca "posto" · máx. 8 pessoas/h · ~230 m² com pátio · renda €1.500
