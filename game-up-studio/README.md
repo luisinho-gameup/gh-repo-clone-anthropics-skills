@@ -62,3 +62,4 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-02 | Manual de marca | v1 criado sobre o design system Game Up Training (Anton + Titillium Web, lima #CAD400): https://claude.ai/artifact/HrTBN8WBVpmDzsJrvW35mk |
 | 2026-11-02 | Serviços | **Sem "Fisioterapia"** por agora (legislação). Serviços: Treino Personalizado · Arrendamento para Personal Trainers · Recovery. Uso do gabinete a definir |
 | 2026-11-02 | Termos | Não usar "posto". Usar **"espaço"** na comunicação ("Aluga o teu espaço") e **"Área 01–05 / R1–R2"** na sinalética |
+| 2026-11-04 | Planta | 2.ª visita. Proposta de zonas v1 (Sala principal, Recovery na sala fechada, Gabinete, Zona de troca, WC, Duche, Pátio): https://claude.ai/artifact/PaQ2EoqXv5nDkTqZ61hNaE · plantas em `game-up-studio/planta/` |

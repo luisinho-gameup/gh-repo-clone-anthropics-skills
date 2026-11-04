@@ -34,6 +34,7 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
 
 ## Links de trabalho
 - Fachada (direção escolhida: **B4 · Elegante**): https://claude.ai/artifact/LWTRWN96skfpKDH2eYod9C
+- Planta com zonas (v1): https://claude.ai/artifact/PaQ2EoqXv5nDkTqZ61hNaE · plantas originais em `game-up-studio/planta/`
 - Manual de marca do estúdio: https://claude.ai/artifact/HrTBN8WBVpmDzsJrvW35mk
 - Logótipo: só existe PNG 600 px (branco + lima, para fundo escuro). **Falta o vetor** e uma versão escura.
 
