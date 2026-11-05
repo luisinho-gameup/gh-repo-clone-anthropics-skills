@@ -2,6 +2,8 @@
 
 > **Rascunho para discussão entre Eduardo e Luís. Não é um documento final.**
 >
+> **Atualização 5 nov 2026:** a proposta de nov. passa para **65/35** (capital e lucro), €20.000 cada e reinvestimento de 15% — ver `13`. As cláusulas abaixo ainda usam 60/40.
+>
 > **Atualização 2 nov 2026:** quotas 60/40 confirmadas (saída do Vinícius); arrendatária = associação; Lda mais tarde;
 > €1.500 de gestão só para o Eduardo (Cláusula 5, Opção A); sem entrada de capital já, com equipamento financiado e
 > acertos registados (Cláusula 3 → ver `12-orcamentos-e-acertos.md`). Por decidir: lucros 55/45? data da Lda.

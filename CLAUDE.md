@@ -5,8 +5,8 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
 (estrutura, índice de ficheiros e **registo de decisões**) e `game-up-studio/09-quem-somos.md`.
 
 ## Quem trabalha aqui
-- **Luís Tomaz** — sócio (40%), COO. Coordenação técnica, marca, comunicação, **orçamentos e fornecedores**.
-- **Eduardo Ribas** — sócio (60%), fundador e CEO da Game Up Training, gestor diário do estúdio
+- **Luís Tomaz** — sócio (35%, proposta nov. em análise), COO. Coordenação técnica, marca, comunicação, **orçamentos e fornecedores**.
+- **Eduardo Ribas** — sócio (65%, proposta nov. em análise), fundador e CEO da Game Up Training, gestor diário do estúdio
   (recebe €1.500/mês de gestão). Dono da marca Game Up.
 - Os dois trabalham com o Claude, em sessões separadas, sobre este mesmo repositório.
 
@@ -15,7 +15,7 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
   sempre acompanhados por um profissional Game Up ou por um personal trainer parceiro. Sem uso livre.
 - Serviços: **Treino Personalizado · Arrendamento para Personal Trainers · Recovery**.
 - Espaço: ~230 m² com pátio, renda €1.500/mês. 5 áreas de treino (€9/h), 2 de recovery (€35/90 min),
-  1 gabinete (€10/h, uso a definir). Máx. 8 pessoas/hora.
+  1 gabinete (€15/h na proposta de nov., uso a definir). Máx. 8 pessoas/hora.
 - Arrendatária: **associação** (o site indica "Game Up Sport Clube" — confirmar nome jurídico/NIPC).
   Luís e Eduardo são fiadores. A sociedade (Lda) será criada mais tarde.
 - Investimento previsto €40.000. Equipamento **financiado**; restantes despesas por acertos entre sócios,
@@ -39,6 +39,6 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
 - Logótipo: só existe PNG 600 px (branco + lima, para fundo escuro). **Falta o vetor** e uma versão escura.
 
 ## Em aberto (ver README para o estado atual)
-- Lucros 55/45 ou 60/40? · Saída do Vinícius formalizada? · Financiamento do equipamento em nome de quem?
+- Proposta aos sócios de nov. (65/35, €20.000 cada, reinvestimento 15%) por validar — ver `game-up-studio/13-proposta-socios-nov-revisao.md` · Saída do Vinícius formalizada? · Financiamento do equipamento em nome de quem?
 - Minuta do contrato de arrendamento (rever com `game-up-studio/02-contrato-arrendamento.md`).
 - Uso do gabinete · Orçamentos (obras, equipamento, letreiro, seguros).

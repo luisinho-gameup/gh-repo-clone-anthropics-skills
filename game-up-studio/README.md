@@ -8,7 +8,7 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 |---|---|
 | Arrendatária (inquilina) | Associação Game Up |
 | Fiadores | Luís Tomaz (COO) + Eduardo Ribas (fundador/CEO, dono da marca Game Up) |
-| Sócios | Eduardo **60%** · Luís **40%** (após saída do Vinícius, 20% divididos 10/10) |
+| Sócios | Proposta nov.: Eduardo **65%** · Luís **35%** (capital e lucro) — em análise, ver `13` |
 | Utilização do espaço | Treinos Game Up Training + arrendamento/cedência a outros Personal Trainers (PTs) |
 | Local | Linda-a-Velha, concelho de Oeiras |
 | Renda | €1.500/mês |
@@ -26,6 +26,7 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 6. [`06-plano-de-abertura.md`](06-plano-de-abertura.md) — checklist semana a semana até à inauguração
 7. [`07-business-plan-revisao.md`](07-business-plan-revisao.md) — revisão do Pitch v3 e checklist da reunião de sócios
 11. [`11-visita-quarta.md`](11-visita-quarta.md) — checklist da visita de quarta-feira
+13. [`13-proposta-socios-nov-revisao.md`](13-proposta-socios-nov-revisao.md) — revisão da "Proposta aos sócios" de nov. 2026
 12. [`12-orcamentos-e-acertos.md`](12-orcamentos-e-acertos.md) — orçamentos, fornecedores, financiamento e registo de acertos entre sócios
 10. [`10-acordo-socios-rascunho.md`](10-acordo-socios-rascunho.md) — **rascunho do acordo de sócios Eduardo + Luís**
 9. [`09-quem-somos.md`](09-quem-somos.md) — **resumo de quem somos (contexto de referência)**
@@ -63,3 +64,5 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-02 | Serviços | **Sem "Fisioterapia"** por agora (legislação). Serviços: Treino Personalizado · Arrendamento para Personal Trainers · Recovery. Uso do gabinete a definir |
 | 2026-11-02 | Termos | Não usar "posto". Usar **"espaço"** na comunicação ("Aluga o teu espaço") e **"Área 01–05 / R1–R2"** na sinalética |
 | 2026-11-04 | Planta | 2.ª visita. Proposta de zonas v1 (Sala principal, Recovery na sala fechada, Gabinete, Zona de troca, WC, Duche, Pátio): https://claude.ai/artifact/PaQ2EoqXv5nDkTqZ61hNaE · plantas em `game-up-studio/planta/` |
+| 2026-11-05 | Proposta aos sócios (nov.) | Recebida: 65/35 capital e lucro, €20.000 cada, reinvestimento 15%, gabinete €15/h, sem reserva na abertura. **Por validar** — pontos em `13` |
+| 2026-11-05 | Correção | Quotas após a saída do Vinícius = **65/35** (55+10 / 25+10), não 60/40 |
