@@ -8,7 +8,7 @@ Pasta de organização da abertura do estúdio de Performance/Fitness.
 |---|---|
 | Arrendatária (inquilina) | Associação Game Up |
 | Fiadores | Luís Tomaz (COO) + Eduardo Ribas (fundador/CEO, dono da marca Game Up) |
-| Sócios | Proposta nov.: Eduardo **65%** · Luís **35%** (capital e lucro) — em análise, ver `13` |
+| Sócios | Quotas Eduardo **65%** · Luís **35%** · Lucro **60/40** (acordado por mensagem a 5 nov; formalizar) |
 | Utilização do espaço | Treinos Game Up Training + arrendamento/cedência a outros Personal Trainers (PTs) |
 | Local | Linda-a-Velha, concelho de Oeiras |
 | Renda | €1.500/mês |
@@ -66,3 +66,7 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-04 | Planta | 2.ª visita. Proposta de zonas v1 (Sala principal, Recovery na sala fechada, Gabinete, Zona de troca, WC, Duche, Pátio): https://claude.ai/artifact/PaQ2EoqXv5nDkTqZ61hNaE · plantas em `game-up-studio/planta/` |
 | 2026-11-05 | Proposta aos sócios (nov.) | Recebida: 65/35 capital e lucro, €20.000 cada, reinvestimento 15%, gabinete €15/h, sem reserva na abertura. **Por validar** — pontos em `13` |
 | 2026-11-05 | Correção | Quotas após a saída do Vinícius = **65/35** (55+10 / 25+10), não 60/40 |
+| 2026-11-05 | Lucro | Eduardo aceitou **lucro 60/40** (quotas mantêm 65/35). Reinvestimento de 15% mantém-se como caixa de segurança |
+| 2026-11-05 | Abertura de manhã (Luís) | Só até automatizar os acessos (fechadura/controlo de acessos) |
+| 2026-11-05 | Valorização | Eduardo justifica o 65/35 com o valor do negócio pré-investimento (empresa, marca, clientes, investimento em media) — pôr por escrito no acordo |
+| próx. semana | Reunião presencial | Fechar e formalizar: ver `13`, secção 13.4 |

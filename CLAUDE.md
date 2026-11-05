@@ -5,8 +5,8 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
 (estrutura, índice de ficheiros e **registo de decisões**) e `game-up-studio/09-quem-somos.md`.
 
 ## Quem trabalha aqui
-- **Luís Tomaz** — sócio (35%, proposta nov. em análise), COO. Coordenação técnica, marca, comunicação, **orçamentos e fornecedores**.
-- **Eduardo Ribas** — sócio (65%, proposta nov. em análise), fundador e CEO da Game Up Training, gestor diário do estúdio
+- **Luís Tomaz** — sócio — quotas 35%, lucro 40%, COO. Coordenação técnica, marca, comunicação, **orçamentos e fornecedores**.
+- **Eduardo Ribas** — sócio — quotas 65%, lucro 60%, fundador e CEO da Game Up Training, gestor diário do estúdio
   (recebe €1.500/mês de gestão). Dono da marca Game Up.
 - Os dois trabalham com o Claude, em sessões separadas, sobre este mesmo repositório.
 
@@ -39,6 +39,6 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
 - Logótipo: só existe PNG 600 px (branco + lima, para fundo escuro). **Falta o vetor** e uma versão escura.
 
 ## Em aberto (ver README para o estado atual)
-- Proposta aos sócios de nov. (65/35, €20.000 cada, reinvestimento 15%) por validar — ver `game-up-studio/13-proposta-socios-nov-revisao.md` · Saída do Vinícius formalizada? · Financiamento do equipamento em nome de quem?
+- Formalizar: quotas 65/35, lucro 60/40, reinvestimento 15% (acordado por mensagem a 5 nov; reunião presencial na semana seguinte) — ver `game-up-studio/13-proposta-socios-nov-revisao.md` · Saída do Vinícius formalizada? · Financiamento do equipamento em nome de quem?
 - Minuta do contrato de arrendamento (rever com `game-up-studio/02-contrato-arrendamento.md`).
 - Uso do gabinete · Orçamentos (obras, equipamento, letreiro, seguros).

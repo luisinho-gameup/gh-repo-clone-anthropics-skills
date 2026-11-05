@@ -51,3 +51,20 @@ Os cálculos estão corretos (verificados: 15,0%, 26,7%, ano 2 a 30% = €42.767
 - Voto de qualidade **só** nas decisões do dia a dia; investimentos, preços, novos sócios e arrendamento por unanimidade.
 
 > Isto é orientação para a conversa entre sócios. O pacto social e o acordo devem ser revistos por advogado.
+
+## 13.4 Resposta do Eduardo (5 nov 2026) e o que falta fechar
+
+Acordado por mensagem:
+- ✅ **Lucro 60/40** (quotas 65/35). Depois dos 15% de reinvestimento: Eduardo 51% e Luís 34% do lucro total.
+- ✅ Reinvestimento de 15% mantém-se como caixa de segurança, sobretudo nos primeiros anos.
+- ✅ A abertura de manhã pelo Luís é **temporária**, até haver controlo de acessos automático.
+- Valorização: justificada pelo valor do negócio antes do investimento (marca, clientes, media, a empresa a financiar o arranque).
+
+Para a reunião presencial:
+- [ ] Pôr no acordo/pacto: quotas 65/35, **lucro 60/40**, e a justificação da valorização
+- [ ] Permanência mínima: para os dois ou só para o Luís?
+- [ ] Voto de qualidade: em que decisões? (sugestão: só no dia a dia)
+- [ ] €20.000 cada na abertura **ou** equipamento financiado? (há duas versões)
+- [ ] Reforço de caixa dos primeiros meses (~€11.300 a 30%): quem põe e em que proporção
+- [ ] Controlo de acessos automático: orçamento e prazo (Luís, ver `12`)
+- [ ] Rever por advogado antes de assinar
