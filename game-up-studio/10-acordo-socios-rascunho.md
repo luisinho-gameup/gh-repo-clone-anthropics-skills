@@ -2,7 +2,7 @@
 
 > **Rascunho para discussão entre Eduardo e Luís. Não é um documento final.**
 > Atualizado com a "Proposta aos sócios" de novembro e com o que ficou acordado por mensagem a 5 nov 2026.
-> ✅ = acordado · [ ] = por decidir na reunião presencial.
+> ✓ = acordado · [ ] = por decidir na reunião presencial.
 > Antes de assinar: revisão por advogado (cláusulas 4, 7, 8 e 11) e da parte fiscal por contabilista certificado.
 
 ---
@@ -32,7 +32,7 @@ E. Os Sócios pretendem regular entre si o investimento, a gestão, a repartiç�
 2. O Estúdio funciona por marcação, aberto a todos os públicos, sempre acompanhados por um profissional (Game Up ou parceiro). Serviços: Treino Personalizado, Arrendamento para Personal Trainers e Recovery. Aluga horas de espaço a profissionais externos.
 
 ### Cláusula 2.ª — Entidade e fases
-1. ✅ **Fase 1 (arranque):** o Estúdio é explorado pela Associação, que é a arrendatária.
+1. ✓ **Fase 1 (arranque):** o Estúdio é explorado pela Associação, que é a arrendatária.
 2. **Fase 2 (sociedade):** os Sócios comprometem-se a constituir uma sociedade por quotas ("**Sociedade**") até [data], que passará a explorar o Estúdio.
 3. O contrato de arrendamento deve prever a **cessão da posição contratual** para a Sociedade, com autorização da proprietária.
 4. Enquanto durar a Fase 1, os Sócios obrigam-se a que as deliberações da Associação sobre o Estúdio respeitem este acordo.
@@ -61,10 +61,10 @@ E. Os Sócios pretendem regular entre si o investimento, a gestão, a repartiç�
 6. Investimentos adicionais acima de €[2.000] exigem acordo dos dois (Cláusula 6).
 
 ### Cláusula 4.ª — Quotas, lucros e reinvestimento
-1. ✅ **Quotas** na Sociedade: Eduardo **65%** · Luís **35%**.
-2. ✅ **Justificação da diferença** entre o capital (50/50) e as quotas (65/35): o valor do negócio antes do investimento, trazido pelo Eduardo — empresa e marca Game Up (INPI), base de clientes e atletas, equipa de treinadores, investimento em comunicação e media feito ao longo dos anos, e a capacidade da Game Up de financiar o arranque com a sua atividade.
-3. ✅ **Reinvestimento:** antes de qualquer distribuição, **15% do lucro** fica no Estúdio como caixa de segurança, destinado primeiro à remodelação fase 2 (€5.000) e à reserva de tesouraria (€15.000).
-4. ✅ **Distribuição do lucro restante:** Eduardo **60%** · Luís **40%** (a constar **expressamente do pacto social**, por ser diferente das quotas).
+1. ✓ **Quotas** na Sociedade: Eduardo **65%** · Luís **35%**.
+2. ✓ **Justificação da diferença** entre o capital (50/50) e as quotas (65/35): o valor do negócio antes do investimento, trazido pelo Eduardo — empresa e marca Game Up (INPI), base de clientes e atletas, equipa de treinadores, investimento em comunicação e media feito ao longo dos anos, e a capacidade da Game Up de financiar o arranque com a sua atividade.
+3. ✓ **Reinvestimento:** antes de qualquer distribuição, **15% do lucro** fica no Estúdio como caixa de segurança, destinado primeiro à remodelação fase 2 (€5.000) e à reserva de tesouraria (€15.000).
+4. ✓ **Distribuição do lucro restante:** Eduardo **60%** · Luís **40%** (a constar **expressamente do pacto social**, por ser diferente das quotas).
    - Na prática: Eduardo 51% e Luís 34% do lucro total; 15% fica no Estúdio.
 5. Ordem antes de distribuir: (i) reserva legal; (ii) reembolso dos reforços de caixa (Cláusula 3.3); (iii) reinvestimento de 15%; (iv) distribuição 60/40.
 6. Distribuição **semestral**, em julho e janeiro.
@@ -74,9 +74,9 @@ E. Os Sócios pretendem regular entre si o investimento, a gestão, a repartiç�
 ### Cláusula 5.ª — Funções e remuneração
 1. **Eduardo — fundador e gerente:** gestão do espaço, decisões de marca, ligação aos treinadores e clientes da Game Up, direção técnica [se tiver o título de Diretor Técnico].
 2. **Luís — sócio operacional:** captação de profissionais, promoção nas redes sociais, orçamentos e fornecedores, coordenação técnica.
-3. ✅ **Abertura do espaço de manhã (Luís): temporária**, até estar instalado o controlo de acessos automático (fechadura com código ou app).
+3. ✓ **Abertura do espaço de manhã (Luís): temporária**, até estar instalado o controlo de acessos automático (fechadura com código ou app).
    - [ ] Prazo previsto para o controlo de acessos: até [data] (orçamento: Luís, ver `12`).
-4. ✅ **Remuneração de gestão:** €1.500/mês ao Eduardo, incluída nos custos fixos.
+4. ✓ **Remuneração de gestão:** €1.500/mês ao Eduardo, incluída nos custos fixos.
 5. [ ] Luís é remunerado pela participação nos lucros (40%). Revisão desta cláusula no Ano 2 ou ao atingir o ponto de equilíbrio [opcional].
 6. Dedicação mínima: Eduardo [__] h/semana · Luís [__] h/semana.
 7. As horas de treino que cada Sócio dê aos seus clientes no Estúdio pagam o espaço como qualquer outro profissional.
@@ -123,7 +123,7 @@ E. Os Sócios pretendem regular entre si o investimento, a gestão, a repartiç�
 1. [ ] **Permanência mínima de 2 anos** a contar da abertura: proposta de nov. só para o Luís; proposta do Luís: **para os dois**.
 2. **Saída voluntária:** pré-aviso de [6] meses.
 3. **Direito de preferência:** o Sócio que fica tem preferência na compra da participação de quem sai.
-4. ✅ **Valor da participação:** valor contabilístico, avaliado por **ROC** (revisor oficial de contas).
+4. ✓ **Valor da participação:** valor contabilístico, avaliado por **ROC** (revisor oficial de contas).
 5. **Saída por justa causa** (incumprimento grave, abandono, conduta danosa): [__]% do valor do ponto 4.
 6. **Morte ou incapacidade:** o Sócio restante pode comprar a participação aos herdeiros pelo valor do ponto 4, pagável em [24] meses.
 7. **Bloqueio prolongado (shotgun):** um Sócio propõe um preço; o outro escolhe comprar ou vender a esse preço.
@@ -153,17 +153,17 @@ Eduardo Ribas                   Luís Tomaz
 
 | # | Tema | Estado |
 |---|---|---|
-| 1 | Entidade | ✅ Associação na Fase 1; Lda depois (data por definir) |
-| 2 | Quotas | ✅ 65/35 |
-| 3 | Lucro | ✅ 60/40, depois de 15% de reinvestimento |
-| 4 | Justificação da valorização | ✅ Valor do negócio pré-investimento (escrever no acordo) |
-| 5 | Remuneração de gestão | ✅ €1.500/mês ao Eduardo |
-| 6 | Abertura de manhã (Luís) | ✅ Temporária, até ao controlo de acessos · [ ] prazo |
+| 1 | Entidade | ✓ Associação na Fase 1; Lda depois (data por definir) |
+| 2 | Quotas | ✓ 65/35 |
+| 3 | Lucro | ✓ 60/40, depois de 15% de reinvestimento |
+| 4 | Justificação da valorização | ✓ Valor do negócio pré-investimento (escrever no acordo) |
+| 5 | Remuneração de gestão | ✓ €1.500/mês ao Eduardo |
+| 6 | Abertura de manhã (Luís) | ✓ Temporária, até ao controlo de acessos · [ ] prazo |
 | 7 | Investimento | [ ] €20.000 cada na abertura **ou** equipamento financiado |
 | 8 | Reforço de caixa (~€11.300) | [ ] Proporção 50/50 ou 65/35 |
 | 9 | Voto de qualidade | [ ] Só no dia a dia? |
 | 10 | Permanência mínima 2 anos | [ ] Para os dois ou só para o Luís? |
 | 11 | Fiança entre sócios | Proposta: 65/35 com direito de regresso |
-| 12 | Saída | ✅ Valor contabilístico avaliado por ROC · [ ] pré-aviso e justa causa |
+| 12 | Saída | ✓ Valor contabilístico avaliado por ROC · [ ] pré-aviso e justa causa |
 | 13 | Saída do Vinícius | [ ] Formalizada por escrito? |
 | 14 | Revisão por advogado | [ ] Antes de assinar |
