@@ -14,7 +14,7 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
 - Estúdio de treino personalizado **por marcação**, aberto a **todos os públicos** (atletas, seniores, grávidas…),
   sempre acompanhados por um profissional Game Up ou por um personal trainer parceiro. Sem uso livre.
 - Serviços: **Treino Personalizado · Arrendamento para Personal Trainers · Recovery**.
-- Espaço: ~230 m² com pátio, renda €1.500/mês. 5 áreas de treino (€9/h), 2 de recovery (€35/90 min),
+- Espaço: ≈174 m² (interior 99,6 m² + terraço 74,3 m², planta v9 de 11 nov; o "230 m²" antigo está errado), renda €1.500/mês. 5 áreas de treino (€9/h), 2 de recovery (€35/90 min),
   1 gabinete (€15/h na proposta de nov., uso a definir). Máx. 8 pessoas/hora.
 - Arrendatária: **associação** (o site indica "Game Up Sport Clube" — confirmar nome jurídico/NIPC).
   Luís e Eduardo são fiadores. A sociedade (Lda) será criada mais tarde.
@@ -34,7 +34,8 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
 
 ## Links de trabalho
 - Fachada (direção escolhida: **B4 · Elegante**): https://claude.ai/artifact/LWTRWN96skfpKDH2eYod9C
-- Planta com zonas (v1): https://claude.ai/artifact/PaQ2EoqXv5nDkTqZ61hNaE · plantas originais em `game-up-studio/planta/`
+- **Projeto do espaço v9 (11 nov, referência atual):** `game-up-studio/docs/Sala_Linda-a-Velha_v9_2026-11-11.pdf`
+- Planta com zonas (v1, substituída pela v9): https://claude.ai/artifact/PaQ2EoqXv5nDkTqZ61hNaE · plantas originais em `game-up-studio/planta/`
 - Manual de marca do estúdio: https://claude.ai/artifact/HrTBN8WBVpmDzsJrvW35mk
 - Logótipo: só existe PNG 600 px (branco + lima, para fundo escuro). **Falta o vetor** e uma versão escura.
 

@@ -70,3 +70,4 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-05 | Abertura de manhã (Luís) | Só até automatizar os acessos (fechadura/controlo de acessos) |
 | 2026-11-05 | Valorização | Eduardo justifica o 65/35 com o valor do negócio pré-investimento (empresa, marca, clientes, investimento em media) — pôr por escrito no acordo |
 | próx. semana | Reunião presencial | Fechar e formalizar: ver `13`, secção 13.4 |
+| 2026-11-11 | Projeto do espaço v9 | `docs/Sala_Linda-a-Velha_v9_2026-11-11.pdf`: planta corrigida (interior **99,6 m²** + terraço **74,3 m²** = **≈174 m²**, não 230 m²), layout de equipamento v4, pista de relva 10×2 m, recovery biohacking (sauna, banheira de gelo, duche) na arrecadação, Sala 1 gabinete e Sala 2 vestiário, terraço para treino técnico |
