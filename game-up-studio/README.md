@@ -75,3 +75,4 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-17 | Ideia em estudo | Recovery no terraço (canto esquerdo, ≈5,2 × 2,5 m ≈ 13 m², coberto) e sala de Pilates na antiga arrecadação (≈15–18 m², 3 reformers). Planta: `planta/planta_recovery-exterior_pilates.png` |
 | 2026-11-17 | Imagens de estudo | Sala de Pilates (cores do recovery) e recovery exterior com cobertura translúcida: `docs/imagens/` |
 | 2026-11-17 | Sala de Pilates | Layout do Luís Felipe: reformer com torre, step chair, ladder barrel + 2 bolas azuis e suporte para 4 colchonetes. Imagens `docs/imagens/pilates_a|b.jpg` |
+| 2026-11-17 | Estudo 3D interativo | Sala de Pilates (planta v9, 6,30×3,00 m: reformer com torre, step chair, ladder barrel, 2 bolas, suporte com 4 colchonetes) + recovery exterior: https://claude.ai/artifact/SRmLK2WWrE1fvSw8gueLSi |

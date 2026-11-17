@@ -36,6 +36,7 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
 - Fachada (direção escolhida: **B4 · Elegante**): https://claude.ai/artifact/LWTRWN96skfpKDH2eYod9C
 - **Projeto do espaço v9 (11 nov, referência atual):** `game-up-studio/docs/Sala_Linda-a-Velha_v9_2026-11-11_sem-logo-fundo.pdf` (versão sem o painel de logótipo na parede do fundo)
 - Planta com zonas (v1, substituída pela v9): https://claude.ai/artifact/PaQ2EoqXv5nDkTqZ61hNaE · plantas originais em `game-up-studio/planta/`
+- Estudo 3D Pilates + Recovery exterior: https://claude.ai/artifact/SRmLK2WWrE1fvSw8gueLSi
 - Manual de marca do estúdio: https://claude.ai/artifact/HrTBN8WBVpmDzsJrvW35mk
 - Logótipo: só existe PNG 600 px (branco + lima, para fundo escuro). **Falta o vetor** e uma versão escura.
 
