@@ -77,3 +77,4 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-17 | Sala de Pilates | Layout do Luís Felipe: reformer com torre, step chair, ladder barrel + 2 bolas azuis e suporte para 4 colchonetes. Imagens `docs/imagens/pilates_a|b.jpg` |
 | 2026-11-17 | Estudo 3D interativo | Sala de Pilates (planta v9, 6,30×3,00 m: reformer com torre, step chair, ladder barrel, 2 bolas, suporte com 4 colchonetes) + recovery exterior: https://claude.ai/artifact/SRmLK2WWrE1fvSw8gueLSi |
 | 2026-11-17 | Estudo 3D terraço | Terraço como no projeto v9 (piso preto, logótipo Game Up, faixa branca, janelas da planta) com recovery no canto esquerdo do fundo; vista de drone |
+| 2026-11-25 | Polo dos sócios | 4 esboços (A preta clean, B preta com friso lima e GAME UP nas costas, C grafite, D branca): `docs/imagens/polos_esbocos.jpg`. Logótipo com STUDIO: `docs/imagens/logo_game-up-studio_fundo-escuro.png` (esboço; a gráfica precisa do vetor) |
