@@ -83,3 +83,4 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-26 | Polo: decisão | **Duas versões** (verde-musgo/preto e preto/verde-musgo), costas com **GAME UP** (sem símbolo), logótipo com STUDIO no peito: `docs/imagens/polos_versao-final.jpg` |
 | 2026-11-26 | Polo: versão final | Costas: GAME UP (branco) + STUDIO fino por baixo, **preto** na verde-musgo e **verde-lima** na preta: `docs/imagens/polos_versao-final.jpg` |
 | 2026-11-26 | Polo: ajuste | STUDIO das costas em **verde-lima nas duas** versões |
+| 2026-11-26 | Polo: ajuste do Eduardo | Painel grosso dos ombros substituído por **lista fina** (ombros, mangas e gola): preta na verde-musgo, verde na preta. Corpo **liso**, sem riscas |
