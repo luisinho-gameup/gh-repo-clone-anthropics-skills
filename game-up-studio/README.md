@@ -80,3 +80,4 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-25 | Polo dos sócios | 4 esboços (A preta clean, B preta com friso lima e GAME UP nas costas, C grafite, D branca): `docs/imagens/polos_esbocos.jpg`. Logótipo com STUDIO: `docs/imagens/logo_game-up-studio_fundo-escuro.png` (esboço; a gráfica precisa do vetor) |
 | 2026-11-25 | Polo: direção | Verde-musgo escuro (como a parede do Recovery), modelo com friso nos ombros como no exemplo: `docs/imagens/polos_verde-musgo.jpg` (E1 friso preto, E2 friso lima, E3 costas GAME UP) |
 | 2026-11-26 | Polo: modelo do fornecedor | Adaptado ao modelo com ombros/punhos em contraste: verde-musgo/preto e preto/verde-musgo, costas lisas ou GAME UP: `docs/imagens/polos_ombros-contraste.jpg` |
+| 2026-11-26 | Polo: decisão | **Duas versões** (verde-musgo/preto e preto/verde-musgo), costas com **GAME UP** (sem símbolo), logótipo com STUDIO no peito: `docs/imagens/polos_versao-final.jpg` |
