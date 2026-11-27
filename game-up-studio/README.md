@@ -87,3 +87,4 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-27 | Polo lisa (modelo fotográfico) | Verde-musgo e preta lisas: logótipo com STUDIO no peito, GAME UP + STUDIO pequeno nas costas: `docs/imagens/polos_lisas_studio.jpg` |
 | 2026-11-27 | Logótipo Game Up Studio | PDF vetorial (4 versões) + SVG em `docs/logo/`: traçado a partir do PNG, STUDIO em Oswald Light |
 | 2026-11-27 | Polo: estrela | Estrela Game Up em verde-lima no peito direito. PDF para o fornecedor com mockups, especificações e arte vetorial: `docs/logo/Polos_Game-Up-Studio_arte-fornecedor.pdf` |
+| 2026-11-27 | Polo verde | Fornecedor só tem verde-sálvia (mais claro). Foto do fornecedor editada com a nossa arte: `docs/imagens/foto-fornecedor_verde_*.jpg`. Preta já escolhida |
