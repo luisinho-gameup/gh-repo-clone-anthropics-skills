@@ -85,3 +85,4 @@ e pedir orçamentos reais (seguros, contabilista, software) para `05-financeiro.
 | 2026-11-26 | Polo: ajuste | STUDIO das costas em **verde-lima nas duas** versões |
 | 2026-11-26 | Polo: ajuste do Eduardo | Painel grosso dos ombros substituído por **lista fina** (ombros, mangas e gola): preta na verde-musgo, verde na preta. Corpo **liso**, sem riscas |
 | 2026-11-27 | Polo lisa (modelo fotográfico) | Verde-musgo e preta lisas: logótipo com STUDIO no peito, GAME UP + STUDIO pequeno nas costas: `docs/imagens/polos_lisas_studio.jpg` |
+| 2026-11-27 | Logótipo Game Up Studio | PDF vetorial (4 versões) + SVG em `docs/logo/`: traçado a partir do PNG, STUDIO em Oswald Light |

@@ -38,7 +38,7 @@ Toda a documentação está em `game-up-studio/`. Antes de responder, ler `game-
 - Planta com zonas (v1, substituída pela v9): https://claude.ai/artifact/PaQ2EoqXv5nDkTqZ61hNaE · plantas originais em `game-up-studio/planta/`
 - Estudo 3D Pilates + Recovery exterior: https://claude.ai/artifact/SRmLK2WWrE1fvSw8gueLSi
 - Manual de marca do estúdio: https://claude.ai/artifact/HrTBN8WBVpmDzsJrvW35mk
-- Logótipo: só existe PNG 600 px (branco + lima, para fundo escuro). **Falta o vetor** e uma versão escura.
+- Logótipo Game Up Studio em vetor (redesenhado a partir do PNG): `game-up-studio/docs/logo/` (PDF + SVG, 4 versões). O vetor oficial da Game Up Training continua por obter.
 
 ## Em aberto (ver README para o estado atual)
 - Formalizar: quotas 65/35, lucro 60/40, reinvestimento 15% (acordado por mensagem a 5 nov; reunião presencial na semana seguinte) — ver `game-up-studio/13-proposta-socios-nov-revisao.md` · Saída do Vinícius formalizada? · Financiamento do equipamento em nome de quem?
